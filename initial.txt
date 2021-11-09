@@ -1,8 +1,13 @@
 Spider Induction initial commit
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Commit 2 using main
 
+=======
+Commit 1 develop
+commit 3 develop
+>>>>>>> develop
 =======
 Commit 1 develop
 commit 3 develop
